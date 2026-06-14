@@ -1,16 +1,8 @@
 project:Data cleaning & preparation
-  
-
-Domain:Data Analytics
-
-
-
+  Domain:Data Analytics
 Tasks completed:
 -Removed duplicate data
 -handled missing values
 -corrected data formats
-
-
-
 Tools Used
 Microsoft Excel
